@@ -1,0 +1,8 @@
+.tabla-ciudades {
+  width: 80%;
+  max-width: 900px;
+  margin: 40px auto;
+  border-radius: 5px;
+  overflow: hidden;
+
+}
