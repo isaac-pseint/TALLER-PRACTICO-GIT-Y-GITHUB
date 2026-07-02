@@ -4,7 +4,10 @@ let ciudades=[
     {nombre: "Cali",numeroHabitantes:5000000,metrosSM:5000,temperatura:"30°",coordenadas:[120,-280],sitios:[{"01":"plaza","02":"piscina"}]},
     {nombre: "Pereira",numeroHabitantes:2000000,metrosSM:10000,temperatura:"20°",coordenadas:[220,-180],sitios:[{"01":"zoologico","02":"parque del cafe"}]},
     {nombre: "Medellin",numeroHabitantes:2500000,metrosSM:1500,temperatura:"22°",coordenadas:[62,-355],sitios:[{"01":"parque explora","02":"comuna 13"}]},
-{nombre: "Cartagena",numeroHabitantes:1000000,metrosSM:2,temperatura:"28°",coordenadas:[180,-405],sitios:[{"01":"ciudad amurallada","02":"castillo san felipe"}]},
+    {nombre: "Cartagena",numeroHabitantes:1000000,metrosSM:2,temperatura:"28°",coordenadas:[180,-405],sitios:[{"01":"ciudad amurallada","02":"castillo san felipe"}]},
+    {nombre: "Barranquilla",numeroHabitantes:1200000,metrosSM:18,temperatura:"29°",coordenadas:[95,-460],sitios:[{"01":"malecon del rio","02":"carnaval museo"}]},
+    {nombre: "Manizales",numeroHabitantes:450000,metrosSM:2150,temperatura:"17°",coordenadas:[310,-120],sitios:[{"01":"nevado del ruiz","02":"cable aereo"}]},
+    {nombre: "Santa Marta",numeroHabitantes:550000,metrosSM:2,temperatura:"29°",coordenadas:[150,-390],sitios:[{"01":"tayrona","02":"quinta de san pedro"}]}
 ]
 
 

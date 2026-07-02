@@ -13,3 +13,13 @@
 ### quinto comando 
 - git push
 ### sexto comando 
+- git add .
+### septimo comando 
+ - git commit . -m "se agregaron dos ciudades al js y se agrego un archivo css para mejorar la estetica de la tabla, tambien se hixo un cambio en la etiqueta class de el table"
+ ### octavo comando 
+ - git push
+
+ ### noveno comando
+  git commit . -m " se agregaron dos ciudades  el js"
+   ### decimo comando
+   - git push
