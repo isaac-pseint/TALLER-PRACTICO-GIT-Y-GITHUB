@@ -20,6 +20,10 @@
  - git push
 
  ### noveno comando
-  git commit . -m " se agregaron dos ciudades  el js"
+  git commit . -m " se agregaron tres ciudades  el js"
    ### decimo comando
+   - git push
+ ###  comando #11
+  git commit . -m " se cambio el enunciado de un th para mejor entendimiento"
+   ### comando #12
    - git push
